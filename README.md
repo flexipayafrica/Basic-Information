@@ -8,12 +8,13 @@ FlexiiPay buy now pay later platform
  # Backend
  - Node.js
  - Express
+ - Firebase (Backend as a service)
  
  # Database
  - MongoDB  - NoSQL database
  
  # Cloud Provider
- - Azure/Firebase
+ - Azure/GCP
  
  # Other
  - Twilio - Text messaging and 2 factor Auth 
