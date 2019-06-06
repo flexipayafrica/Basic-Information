@@ -17,6 +17,6 @@ FlexiiPay buy now pay later platform
  - Azure/GCP
  
  # Other
- - [Twilio(https://www.twilio.com/authy)] - Text messaging and 2 factor Auth 
- - [Algolia(https://www.algolia.com/)] - Advaced search 
+ - [Twilio](https://www.twilio.com/authy) - Text messaging and 2 factor Auth 
+ - [Algolia](https://www.algolia.com/) - Advaced search 
  
