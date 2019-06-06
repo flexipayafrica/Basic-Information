@@ -1,7 +1,7 @@
 # Flexiipay-Website
 FlexiiPay buy now pay later platform
 
-# Front-end 
+# Frontend 
  - React.js
  - Semantic-UI 
  
@@ -13,5 +13,9 @@ FlexiiPay buy now pay later platform
  - MongoDB  - NoSQL database
  
  # Cloud Provider
- - Azure/AWS/ Google Cloud ?? choose one
+ - Azure/Firebase
+ 
+ # Other
+ - Twilio - Text messaging and 2 factor Auth 
+ - Algolia - Advaced search 
  
