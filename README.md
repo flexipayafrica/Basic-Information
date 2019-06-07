@@ -19,4 +19,5 @@ FlexiiPay buy now pay later platform
  # Other
  - [Twilio](https://www.twilio.com/authy) - Text messaging and 2 factor Auth 
  - [Algolia](https://www.algolia.com/) - Advaced search 
+ - [Send Grid](https://sendgrid.com/)- Cloud-based email infrastructure 
  
