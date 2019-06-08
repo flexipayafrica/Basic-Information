@@ -23,6 +23,6 @@ FlexiiPay buy now pay later platform
  - [Send Grid](https://sendgrid.com/)- Cloud-based email infrastructure 
  
  ## Business Management
- - [Jira Software and IT Helpdesk & Confluence & BitBucket](https://www.atlassian.com) - IT help desk, Project Management, Issue Tracking, Git Repository
+ - [Jira Software, IT Helpdesk, Confluence & BitBucket](https://www.atlassian.com) - IT help desk, Project Management, Issue Tracking, Git Repository
  
  
