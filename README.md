@@ -1,28 +1,29 @@
-# Flexiipay-Website
+# Flexiipay
 FlexiiPay buy now pay later platform
 
-# Frontend 
+## System Stack
+### Frontend 
  - React.js
  - Semantic-UI 
  
- # Backend
+ ### Backend
  - Node.js
  - Express
  - Firebase (Backend as a service)
  
- # Database
+ ### Database
  - MongoDB  - NoSQL database
  
- # Cloud Provider
+ ### Cloud Provider
  - Azure/GCP
  
- # Other
- ## Platform providers
+ ## Integrations Needed
+ ### Platform providers
  - [Twilio](https://www.twilio.com/authy) - Text messaging and 2 factor Auth 
  - [Algolia](https://www.algolia.com/) - Advaced search 
  - [Send Grid](https://sendgrid.com/)- Cloud-based email infrastructure 
  
- ## Business Management
+ ### Business Management
  - [Jira Software, IT Helpdesk, Confluence & BitBucket](https://www.atlassian.com) - IT help desk, Project Management, Issue Tracking, Git Repository
  
  
