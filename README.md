@@ -26,7 +26,7 @@ FlexiiPay buy now pay later platform
  
  ### Business Management
  - [Jira Software, IT Helpdesk, Confluence & BitBucket](https://www.atlassian.com) - IT help desk, Project Management, Issue Tracking, Git Repository
- - [GSuit](https://gsuite.google.com) - Email hosting and management
+ - [GSuit](https://gsuite.google.com) - Email hosting, management access to google doc, drive and calendar
  - [Lastpass](https://www.lastpass.com) - Passoword manager
  
  
