@@ -3,19 +3,20 @@ FlexiiPay buy now pay later platform
 
 ## System Stack
 ### Frontend 
- - React.js
- - Semantic-UI 
+ - [Semantic-UI](https://react.semantic-ui.com/)
+ - [React.js](https://reactjs.org/)
  
  ### Backend
- - Node.js
- - Express
- - Firebase (Backend as a service)
+ - [Node.js](https://nodejs.org/en/)
+ - [Express](https://expressjs.com/)
+ - [Firebase](https://firebase.google.com/) - Backend as a service, interested in Authentication, Cloud Storage, Cloud Functions and Database
  
  ### Database
- - MongoDB  - NoSQL database
+ - [MongoDB](https://www.mongodb.com/) - NoSQL database
  
  ### Cloud Provider
- - Azure/GCP
+ - [Azure](https://azure.microsoft.com/en-au/)or
+ - [Google Cloud Platform](https://cloud.google.com/)
  
  ## Integrations Needed
  ### Platform providers
@@ -25,5 +26,6 @@ FlexiiPay buy now pay later platform
  
  ### Business Management
  - [Jira Software, IT Helpdesk, Confluence & BitBucket](https://www.atlassian.com) - IT help desk, Project Management, Issue Tracking, Git Repository
+ - [GSuit](https://gsuite.google.com) - Email hosting and management
  
  
