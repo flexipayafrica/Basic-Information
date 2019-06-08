@@ -3,8 +3,8 @@ FlexiiPay buy now pay later platform
 
 ## System Stack
 ### Frontend 
- - [Semantic-UI](https://react.semantic-ui.com/)
- - [React.js](https://reactjs.org/)
+ - [Semantic-UI](https://react.semantic-ui.com/) - Frontend framework for sites
+ - [React.js](https://reactjs.org/) - Frontend Javascript Framework
  
  ### Backend
  - [Node.js](https://nodejs.org/en/)
@@ -15,7 +15,7 @@ FlexiiPay buy now pay later platform
  - [MongoDB](https://www.mongodb.com/) - NoSQL database
  
  ### Cloud Provider
- - [Azure](https://azure.microsoft.com/en-au/)or
+ - [Azure](https://azure.microsoft.com/en-au/) or
  - [Google Cloud Platform](https://cloud.google.com/)
  
  ## Integrations Needed
