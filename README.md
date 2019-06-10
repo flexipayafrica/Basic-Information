@@ -1,4 +1,4 @@
-# Flexiipay
+# FlexiiPay
 FlexiiPay buy now pay later platform
 
 ## System Stack
