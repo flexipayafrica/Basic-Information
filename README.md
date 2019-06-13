@@ -13,6 +13,7 @@ FlexiiPay buy now pay later platform
  
  ### Database
  - [MongoDB](https://www.mongodb.com/) - NoSQL database
+ - Firestore - Firebase database part of GCP
  
  ### Cloud Provider
  - [Azure](https://azure.microsoft.com/en-au/) or
