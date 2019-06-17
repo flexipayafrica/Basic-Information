@@ -1,5 +1,8 @@
 # FlexiiPay
-FlexiiPay buy now pay later platform
+FlexiiPay buy now pay later platform.
+
+## Landing page 
+Built in wordpress with links to log into the back end.
 
 ## System Stack
 ### Frontend 
@@ -21,13 +24,13 @@ FlexiiPay buy now pay later platform
  
  ## Integrations Needed
  ### Platform providers
- - [Twilio](https://www.twilio.com/authy) - Text messaging and 2 factor Auth 
+ - [Twilio](https://www.twilio.com/authy) - Text messaging and 2 Factor Auth 
  - [Algolia](https://www.algolia.com/) - Advaced search 
  - [Send Grid](https://sendgrid.com/)- Cloud-based email infrastructure 
  
  ### Business Management
- - [Jira Software, IT Helpdesk, Confluence & BitBucket](https://www.atlassian.com) - IT help desk, Project Management, Issue Tracking, Git Repository ($AUD20 per month)
- - [GSuit](https://gsuite.google.com) - Email hosting, management access to google doc, drive and calendar (AUD$9 per user per month)
+ - [Jira Software, IT Helpdesk, Confluence & BitBucket](https://www.atlassian.com) - IT help desk, Project Management, Issue Tracking, Git Repository ($AUD20 per month) **LATER**
+ - [GSuit](https://gsuite.google.com) - Email hosting, management access to google doc, drive and calendar (AUD$9 per user per month) **DONE**
  - [Dashlane](https://www.dashlane.com) - Password Manager for organisation (USD$4 per user per month)
  
  
